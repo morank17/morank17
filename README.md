@@ -1,16 +1,12 @@
-## Hi there 👋
+## Welcome to my Github 👋
 
-<!--
-**morank17/morank17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### About me
+- My name is Kevin Moran '25, and I am a **Computer Science Major** from Long Island, New York at Dartmouth College.
+- At Dartmouth I am the Co-Chair of People Of Color Outdoors (POCO). 
+#### My hobbies
+- I love to go snowboarding and rock climbing!
+- I also love listening to music and discovering new music.
+- I am a brother of Sigma Lambda Beta International Fraternity Incorporated at Dartmouth. I am also a founded for the fraternity on campus.
+#### Contact Info
+- School Email: kevin.moran.25@dartmouth.edu
+- Personal Email: morank9000@gmail.com
